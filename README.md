@@ -1,11 +1,11 @@
 # progmob
 
 @anakarinafacom
-
-Cristian Haas Fretes
-201719060525
-Gustavo Redua de Oliveira
-202119050535
+</br>
+Cristian Haas Fretes</br>
+201719060525</br>
+Gustavo Redua de Oliveira</br>
+202119050535</br>
 
 <h2>Visão Geral </h2>
 O aplicativo será destido a cantinas e estudantes da ufms. Estudantes que utilizam as cantinas da ufms, poderão conferir o cardapio em tempo real e quando novos salgados ficarem prontos.
@@ -29,7 +29,7 @@ Saida: Sistema Verifica se todos os dados foram preenchidos </br>
 Saida: Sistema Verifica se todos os dados foram preenchidos</br>
                realiza o cadastro, caso contrário emite uma mensagem de erro</br>
 </br>
-<h3>Cadastro de Cardapio: "O cadastro de cardápio proporciona aos usuários saberem o que vende na cantina, qual seu valor, e se ainda possui"</h3>
+<h4>Cadastro de Cardapio: "O cadastro de cardápio proporciona aos usuários saberem o que vende na cantina, qual seu valor, e se ainda possui"</h4>
  ->Nome</br>
  ->Quantidade</br>
  ->Valor</br>
@@ -37,13 +37,13 @@ Saida: Sistema Verifica se todos os dados foram preenchidos </br>
                Verifica se a quantidade é maior que 0</br>
                realiza o cadastro, caso contrário emite uma mensagem de erro</br>
 
-<h3>Adicionar saldo: "O aplicativo deve permitir adicionar saldo na carteira do aplicativo, o saldo é comprado presencialmente, obtendo uma hash"</h3>
+<h4>Adicionar saldo: "O aplicativo deve permitir adicionar saldo na carteira do aplicativo, o saldo é comprado presencialmente, obtendo uma hash"</h4>
   ->Hash</br>
 Saida: Sistema Verifica se todos os dados foram preenchidos </br>
                Verfica se a hash é válida</br>
                adiciona o saldo a carteira, caso contrario emite uma mensagem de erro</br>
   
-<h3>Realizar compra: "O aplicativo deve permitir ao usuário aluno realziar a compra de qualquer item da cantina"</h3>
+<h4>Realizar compra: "O aplicativo deve permitir ao usuário aluno realziar a compra de qualquer item da cantina"</h4>
   ->Produto</br>
   ->Quantidade</br>
 Saida: Sistema Verifica se todos os dados foram preenchidos </br>
