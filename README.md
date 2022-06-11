@@ -15,13 +15,13 @@ O aplicativo será destido a cantinas e estudantes da ufms. Estudantes que utili
 -Estudantes: Utilizam utilizam o app para verificar o cardapio e comprar itens
 
 <h2>Requisitos Funcionais </h2>
-Cadastro de usuários: "O cadastro de usuários permite aos usuários utilizarem o sistema"
--Aluno
- ->Nome
- ->RGA
- ->Senha
-Saida: Sistema Verifica se todos os dados foram preenchidos e realiza o cadastro, caso contrário emite uma mensagem de erro
-
+<h4>Cadastro de usuários: "O cadastro de usuários permite aos usuários utilizarem o sistema"</h4>
+-Aluno</br>
+ ->Nome</br>
+ ->RGA</br>
+ ->Senha</br>
+Saida: Sistema Verifica se todos os dados foram preenchidos e realiza o cadastro, caso contrário emite uma mensagem de erro</br>
+</br>
 -Cantina
  ->Nome
  ->Localidade
