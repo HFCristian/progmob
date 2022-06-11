@@ -25,7 +25,9 @@ Saida: Sistema Verifica se todos os dados foram preenchidos </br>
 </br>
 **Cantina**</br>
  ->Nome</br>
+ ->Email</br>
  ->Localidade</br>
+ ->Senha</br>
 Saida: Sistema Verifica se todos os dados foram preenchidos</br>
                realiza o cadastro, caso contrário emite uma mensagem de erro</br>
 </br>
