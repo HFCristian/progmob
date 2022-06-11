@@ -20,34 +20,35 @@ O aplicativo será destido a cantinas e estudantes da ufms. Estudantes que utili
  ->Nome</br>
  ->RGA</br>
  ->Senha</br>
-Saida: Sistema Verifica se todos os dados foram preenchidos e realiza o cadastro, caso contrário emite uma mensagem de erro</br>
+Saida: Sistema Verifica se todos os dados foram preenchidos </br>
+               realiza o cadastro, caso contrário emite uma mensagem de erro</br>
 </br>
--Cantina
- ->Nome
- ->Localidade
-Saida: Sistema Verifica se todos os dados foram preenchidos e 
-               realiza o cadastro, caso contrário emite uma mensagem de erro
+-Cantina</br>
+ ->Nome</br>
+ ->Localidade</br>
+Saida: Sistema Verifica se todos os dados foram preenchidos</br>
+               realiza o cadastro, caso contrário emite uma mensagem de erro</br>
+</br>
+<h3>Cadastro de Cardapio: "O cadastro de cardápio proporciona aos usuários saberem o que vende na cantina, qual seu valor, e se ainda possui"</h3>
+ ->Nome</br>
+ ->Quantidade</br>
+ ->Valor</br>
+Saida: Sistema Verifica se todos os dados foram preenchidos </br>
+               Verifica se a quantidade é maior que 0</br>
+               realiza o cadastro, caso contrário emite uma mensagem de erro</br>
 
-Cadastro de Cardapio: "O cadastro de cardápio proporciona aos usuários saberem o que vende na cantina, qual seu valor, e se ainda possui"
- ->Nome
- ->Quantidade
- ->Valor
-Saida: Sistema Verifica se todos os dados foram preenchidos 
-               Verifica se a quantidade é maior que 0
-               realiza o cadastro, caso contrário emite uma mensagem de erro
-
-Adicionar saldo: "O aplicativo deve permitir adicionar saldo na carteira do aplicativo, o saldo é comprado presencialmente, obtendo uma hash"
-  ->Hash
-Saida: Sistema Verifica se todos os dados foram preenchidos 
-               Verfica se a hash é válida
-               adiciona o saldo a carteira, caso contrario emite uma mensagem de erro
+<h3>Adicionar saldo: "O aplicativo deve permitir adicionar saldo na carteira do aplicativo, o saldo é comprado presencialmente, obtendo uma hash"</h3>
+  ->Hash</br>
+Saida: Sistema Verifica se todos os dados foram preenchidos </br>
+               Verfica se a hash é válida</br>
+               adiciona o saldo a carteira, caso contrario emite uma mensagem de erro</br>
   
-Realizar compra: "O aplicativo deve permitir ao usuário aluno realziar a compra de qualquer item da cantina"
-  ->Produto
-  ->Quantidade
-Saida: Sistema Verifica se todos os dados foram preenchidos 
-               Verfica se a quantidade do produto é maior que 0
-               efetua a compra e debita o valor da compra do saldo da carteira, caso contrario emite uma mensagem de erro
+<h3>Realizar compra: "O aplicativo deve permitir ao usuário aluno realziar a compra de qualquer item da cantina"</h3>
+  ->Produto</br>
+  ->Quantidade</br>
+Saida: Sistema Verifica se todos os dados foram preenchidos </br>
+               Verfica se a quantidade do produto é maior que 0</br>
+               efetua a compra e debita o valor da compra do saldo da carteira, caso contrario emite uma mensagem de erro</br>
   
 
   
